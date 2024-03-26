@@ -1,5 +1,5 @@
 name = "hono"
-//name might be change 
+
 
 compatibility_date = "2023-12-01"
 
@@ -17,4 +17,4 @@ compatibility_date = "2023-12-01"
 # [[d1_databases]]
 # binding = "DB"
 # database_name = "my-database"
-# database_id = ""
+# database_id = ""/name might be change 
